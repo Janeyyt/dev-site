@@ -4,8 +4,8 @@ title: 'H2O theme for Jekyll'
 subtitle: '或许是最漂亮的Jekyll主题'
 date: 2017-04-18
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
+cover: 'https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3617244256,3830439281&fm=26&gp=0.jpg'
+tags: event
 ---
 
 正如我在[微博](http://weibo.com/1374146504/profile?topnav=1&wvr=6)上所说的，使用[Jekyll](http://jekyll.com.cn/)半年以来一直没有令我满意的主题模板，所以开始计划自己写一套好看又好用的主题模板。设计之初就明确了极简主义，风格采用扁平化了，通过卡片式设计来进行区块分明的布局，参考了Medium的ui样式和知乎专栏的视觉风格。
@@ -68,17 +68,16 @@ tags: jekyll 前端开发 设计
 
 遵循 [HTML5](https://www.w3.org/TR/html5/grouping-content.html#the-pre-element) 标准，Prism 使用语义化的 `<pre>` 元素和 `<code>` 元素来标记代码区块：
 
-```
+```html
 <pre><code class="language-css">p { color: red }</code></pre>
 ```
 
 在Markdown中你可以这样写：
 
-```
  ```css
-	p { color: red }
+ p { color: red }
  ```
-```
+
 
 支持语言：
 
